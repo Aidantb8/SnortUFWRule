@@ -1,5 +1,6 @@
 # SnortUFWRule
 *NOT INTENDED FOR USE, PURELY A CONCEPTUAL PROJECT - USE SNORT*
+
 This Python script facilitates the analysis of network traffic against Snort rules, identifies matching patterns, and suggests corresponding UFW rules. It allows users to capture live traffic or analyze existing pcap files, loading Snort rules from a specified directory. The script provides a summary of matched Snort rules and suggests UFW rules based on the analysis.
 
 Features:
